@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Raj</h1>
 <h3 align="center">A passionate Web Developer specializing in creating responsive and user-friendly websites</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kundan-99&label=Profile%20views&color=0e75b6&style=flat" alt="kundan-99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayush004raj&label=Profile%20views&color=0e75b6&style=flat" alt="kundan-99" /> </p>
 
 ---
 
